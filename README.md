@@ -1,5 +1,6 @@
 DESCRIPTION - 
 Just a simple die rolling app, where some animations are added and there is a Die component and RollDice(parent component which manages the state)
+<br/>
 ![export2](https://user-images.githubusercontent.com/29317939/200330578-39e007a1-d312-414f-9809-1be82ef38e8c.jpg)
 ![960x0](https://user-images.githubusercontent.com/29317939/200330599-52609721-2461-45cc-82c7-7e37e60fd17e.jpg)
 
